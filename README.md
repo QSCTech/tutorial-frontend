@@ -35,17 +35,17 @@ Still under writing.
 
 - [绪论](绪论.md)
 
-- [Hello World](hello-world.md)
-
 ### 阶段二（Javascript 基础）
 
 - jQuery
 
-- 原生代码
+- 原生代码学习
 
 - Firebug & Chrome Console
 
 ### 阶段三（进阶）
+
+- 前端进阶绪论（一些网站介绍什么的）
 
 - CoffeeScript 介绍
 
