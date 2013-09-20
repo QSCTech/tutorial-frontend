@@ -31,19 +31,25 @@ Still under writing.
 
 ## 目录
 
-### 阶段一（HTML & CSS 基础）
+### 阶段一（基础）
 
 - [绪论](绪论.md)
 
-### 阶段二（Javascript 基础）
-
 - jQuery
 
-- 原生代码学习
+### 阶段二（进阶）
 
-- Firebug & Chrome Console
+- HTML5
 
-### 阶段三（进阶）
+- CSS3
+
+- 跨浏览器兼容
+
+- 原生 Javascript 代码学习 & Firebug & Chrome Console
+
+- ES5 & ES6
+
+### 阶段三（高阶）
 
 - 前端进阶绪论（一些网站介绍什么的）
 
