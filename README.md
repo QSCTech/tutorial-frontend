@@ -17,6 +17,8 @@ Still under writing.
 我一直认为实践是重要的学习，所以这份讲义将会是实践驱动的，
 不会说很多理论，也是希望大家能即时地看到自己的成果。
 
+主要呢，还是大家自学为主，我们会帮大家改下作业然后有任何问题也可以发邮件向我们询问。
+
 ## 作者
 
 - Zeno Zeng
@@ -29,8 +31,30 @@ Still under writing.
 
 ## 目录
 
-### 阶段一
+### 阶段一（HTML & CSS 基础）
 
 - [绪论](绪论.md)
 
-### 阶段二
+- [Hello World](hello-world.md)
+
+### 阶段二（Javascript 基础）
+
+- jQuery
+
+- 原生代码
+
+- Firebug & Chrome Console
+
+### 阶段三（进阶）
+
+- CoffeeScript 介绍
+
+- Less 介绍
+
+- NodeJS 介绍
+
+- Grunt 及单元测试
+
+- 架构探讨（MVC合适吗？Backbone？AngularJS）
+
+
