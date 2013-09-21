@@ -27,7 +27,7 @@ Still under writing.
 
 ## 授权协议
 
-[署名-非商业性使用 3.0 中国大陆 (CC BY-NC 3.0 CN)](http://creativecommons.org/licenses/by-nc/3.0/cn/)
+[署名-非商业性使用-相同方式共享 3.0 中国大陆 (CC BY-NC-SA 3.0 CN)](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
 
 ## 目录
 

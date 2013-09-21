@@ -1,0 +1,5 @@
+*~
+*.bak
+.*.s[a-w][a-z]
+
+!.gitignore
