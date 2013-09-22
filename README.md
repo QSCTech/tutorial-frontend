@@ -35,6 +35,8 @@ Still under writing.
 
 - [绪论](绪论.md)
 
+- [Javascript 基础](js基础.md)
+
 - jQuery
 
 ### 阶段二（进阶）
