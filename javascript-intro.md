@@ -14,7 +14,9 @@
 
 ### 国庆作业点评
 
-### 概念：Callback
+### 概念：Timer, Callback
+
+- [How JavaScript Timers Work](http://ejohn.org/blog/how-javascript-timers-work/)
 
 - [异步消息的传递－回调机制 - IBM developerWorks](http://www.ibm.com/developerworks/cn/linux/l-callback/)
 
@@ -22,7 +24,7 @@
 
 - [jQuery设计思想 - 阮一峰](http://www.ruanyifeng.com/blog/2011/07/jquery_fundamentals.html)
 
-    此文清晰地介绍了 jQuery 的使用
+    此文简洁清晰地介绍了 jQuery 的使用，强烈推荐一读。
 
 - [jQuery 简介 - W3School](http://www.w3school.com.cn/jquery/jquery_intro.asp)
 
@@ -40,7 +42,7 @@
 
 - 《Javascript 权威指南》
 
-    真的是权威指南呢，非常后，也写的非常详细。但是我个人不推荐初学者看这本书，建议至少入门有一定经验后再读此书。
+    真的是权威指南呢，非常厚，也写的非常详细。但是我个人不推荐初学者看这本书，建议至少入门有一定经验后再读此书。
 
     此书提供 Kindle 版，亚马逊有售。目前最新的是第六版，由淘宝前端翻译。
 

@@ -49,6 +49,8 @@ Still under writing.
 
 - Javascript 进阶 & Firebug & Chrome Console
 
+- [jQuery Free](http://www.ruanyifeng.com/blog/2013/05/jquery-free.html)
+
 - ES5 & ES6
 
 ### 阶段三（高阶）
