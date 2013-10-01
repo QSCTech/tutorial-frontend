@@ -35,19 +35,19 @@ Still under writing.
 
 - [绪论](绪论.md)
 
-- [Javascript 基础](js基础.md)
-
-- jQuery
+- [Javascript 简介](javascript-intro.md)
 
 ### 阶段二（进阶）
 
-- [HTML5](HTML5.md)
+- CSS 3 & HTML 5 简介
 
-- CSS3
+- [HTML5](HTML5.md)
 
 - 跨浏览器兼容
 
-- 原生 Javascript 代码学习 & Firebug & Chrome Console
+- 前端代码规范及各种原则
+
+- Javascript 进阶 & Firebug & Chrome Console
 
 - ES5 & ES6
 
