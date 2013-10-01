@@ -1,6 +1,8 @@
 # Javascript 简介
 
-## （课前）基础语法
+## 课前
+
+### 基础语法
 
 语法基础便不多说了，大家大部分也都也编程经验，可以看看下面的介绍，有什么问题也可以发邮件来询问。
 
@@ -8,9 +10,9 @@
 
 - MDN 提供的 [JavaScript指南](https://developer.mozilla.org/zh-CN/docs/JavaScript/Guide)
 
-## （课堂）国庆作业点评
+## 课堂
 
-## （课堂）实践不得不知的 Javascript
+### 国庆作业点评
 
 ### 概念：Callback
 
@@ -18,11 +20,15 @@
 
 ### 库：jQuery
 
+- [jQuery设计思想 - 阮一峰](http://www.ruanyifeng.com/blog/2011/07/jquery_fundamentals.html)
+
+    此文清晰地介绍了 jQuery 的使用
+
 - [jQuery 简介 - W3School](http://www.w3school.com.cn/jquery/jquery_intro.asp)
 
 - [jQuery API Documentation](http://api.jquery.com/)
 
-## （课堂）Javascript 进阶资源
+### Javascript 进阶资源介绍
 
 - MDN
 
@@ -38,4 +44,8 @@
 
     此书提供 Kindle 版，亚马逊有售。目前最新的是第六版，由淘宝前端翻译。
 
-## （课后）作业
+## 课后
+
+### jQuery 实践
+
+
