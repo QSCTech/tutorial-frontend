@@ -31,13 +31,15 @@ Still under writing.
 
 ## 目录
 
-### 阶段一（基础）
+### 阶段一
 
 - [绪论](绪论.md)
 
 - [Javascript 简介](javascript-intro.md)
 
-### 阶段二（进阶）
+### 阶段二
+
+- [前端架构](前端架构.md)
 
 - [前端技术](前端技术.md)
 
@@ -47,6 +49,8 @@ Still under writing.
 
 - 跨浏览器兼容
 
+- 前端安全
+
 - 前端代码规范及各种原则
 
 - Javascript 进阶 & Firebug & Chrome Console
@@ -54,8 +58,6 @@ Still under writing.
 - [jQuery Free](http://www.ruanyifeng.com/blog/2013/05/jquery-free.html)
 
 - ES5 & ES6
-
-### 阶段三（高阶）
 
 - 前端进阶绪论（一些网站介绍什么的）
 
@@ -66,7 +68,4 @@ Still under writing.
 - NodeJS 介绍
 
 - Grunt 及单元测试
-
-- 架构探讨（MVC合适吗？Backbone？AngularJS）
-
 
