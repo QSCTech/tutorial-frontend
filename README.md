@@ -39,6 +39,8 @@ Still under writing.
 
 ### 阶段二（进阶）
 
+- [前端技术](前端技术.md)
+
 - CSS 3 & HTML 5 简介
 
 - [HTML5](HTML5.md)

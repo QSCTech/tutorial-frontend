@@ -18,6 +18,8 @@
 
 - [How JavaScript Timers Work](http://ejohn.org/blog/how-javascript-timers-work/)
 
+    那张图的信息量还蛮大的
+
 - [异步消息的传递－回调机制 - IBM developerWorks](http://www.ibm.com/developerworks/cn/linux/l-callback/)
 
 ### 库：jQuery
