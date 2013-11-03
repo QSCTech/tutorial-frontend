@@ -20,7 +20,7 @@
 
     那张图的信息量还蛮大的
 
-- [异步消息的传递－回调机制 - IBM developerWorks](http://www.ibm.com/developerworks/cn/linux/l-callback/)
+- [回调函数（callback）是什么？](http://www.zhihu.com/question/19801131)
 
 ### 库：jQuery
 
